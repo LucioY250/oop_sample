@@ -22,4 +22,5 @@ add_executable(oop_sample main.cpp
         src/ConsumableResource.cpp
         src/UsableResource.cpp
         src/Executable.cpp
-        src/Task.cpp)
+        src/Task.cpp
+        src/Process.cpp)
