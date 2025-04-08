@@ -20,4 +20,5 @@ set(SOURCES
 add_executable(oop_sample main.cpp
         src/Resource.cpp
         src/ConsumableResource.cpp
-        src/Usableresource.cpp)
+        src/UsableResource.cpp
+        src/Executable.cpp)
