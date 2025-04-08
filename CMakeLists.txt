@@ -17,4 +17,5 @@ set(SOURCES
         main.cpp)
 
 # Define the executable target
-add_executable(oop_sample main.cpp)
+add_executable(oop_sample main.cpp
+        src/Resource.cpp)
